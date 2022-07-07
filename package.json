@@ -13,7 +13,7 @@
     "native-base": "^2.13.12",
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "moment": "2.25.1",
+    "moment": "2.29.4",
     "lodash": "4.17.15"
   },
   "devDependencies": {
